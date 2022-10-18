@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vercharon&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://t.me/microcharon"><img alt="Contact me if you meet problems" src="https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram"></a> <a href="https://www.paypal.com/paypalme/microcharon"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Support-PayPal-blue?style=flat&logo=paypal"></a>
+<a href="https://t.me/microcharon"><img alt="Contact me if you meet problems" src="https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram"></a>
 
 <!---
  * Vercharon/Vercharon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
