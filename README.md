@@ -1,4 +1,4 @@
-## Less Code, Take More Actions
+## Less Code, Take More Actions | Think Twice, Code Once
 
 ```bash
 
