@@ -10,14 +10,14 @@
 
          _,met$$$$$gg.           root@localhost
       ,g$$$$$$$$$$$$$$$P.        OS: Debian 12 bookworm
-    ,g$$P""       """Y$$.".      Kernel: x86_64 Linux 6.1.0-9-amd64
-   ,$$P'              `$$$.      Uptime: 1h 54m
-  ',$$P       ,ggs.     `$$b:    Packages: 605
+    ,g$$P""       """Y$$.".      Kernel: x86_64 Linux 6.1.0-10-amd64
+   ,$$P'              `$$$.      Uptime: 2m
+  ',$$P       ,ggs.     `$$b:    Packages: 581
   `d$$'     ,$P"'   .    $$$     Shell: bash 5.2.15
-   $$P      d$'     ,    $$P     Disk: 8.9G / 41G (23%)
+   $$P      d$'     ,    $$P     Disk: 11G / 41G (27%)
    $$:      $$.   -    ,d$$'     CPU: AMD EPYC 7543P 32-Core @ 2x 2.8GHz
    $$\;      Y$b._   _,d$P'      GPU: Device 1234:1111 (rev 02)
-   Y$$.    `.`"Y$$$$P"'          RAM: 710MiB / 1967MiB
+   Y$$.    `.`"Y$$$$P"'          RAM: 550MiB / 1967MiB
    `$$b      "-.__              
     `Y$$                         Here is Debcharon
      `Y$$.                       Linux Operator | Webmaster | Web Developer focusing on study
@@ -37,6 +37,6 @@
  * README for Microcharon
  *
  * @author Microcharon
- * @version 3.1
+ * @version 4.0
  * @link https://www.microcharon.top
  --->
