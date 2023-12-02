@@ -28,7 +28,7 @@
 
 ```
 
-<a href="https://t.me/microcharon"><img alt="Contact me if you meet problems" src="https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram"></a> <a href="https://www.paypal.com/paypalme/paycharon"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-PayPal-blue?style=flat&logo=paypal"></a>
+<a href="https://t.me/microcharon"><img alt="Contact me if you meet problems" src="https://img.shields.io/badge/Contact-Telegram-blue?style=flat&logo=telegram"></a> <a href="https://ko-fi.com/microcharon"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-Ko--fi-f8a665?style=flat&logo=ko-fi"></a>
 
 <!---
  * Debcharon/Debcharon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
