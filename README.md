@@ -8,23 +8,23 @@
                                 |_|  |_||___| \___||_|_\ \___/  \___||_||_||_|_||_|_\ \___/ |_|\_|
 
 
-         _,met$$$$$gg.           root@debian-test
+         _,met$$$$$gg.           root@hetzner-dedi
       ,g$$$$$$$$$$$$$$$P.        OS: Debian 13 trixie
-    ,g$$P""       """Y$$.".      Kernel: x86_64 Linux 6.12.38+deb13-amd64
-   ,$$P'              `$$$.      Uptime: 2m
-  ',$$P       ,ggs.     `$$b:    Packages: 418
+    ,g$$P""       """Y$$.".      Kernel: x86_64 Linux 6.12.57+deb13-amd64
+   ,$$P'              `$$$.      Uptime: 284d 18h 32m
+  ',$$P       ,ggs.     `$$b:    Packages: 490
   `d$$'     ,$P"'   .    $$$     Shell: bash 5.2.37
-   $$P      d$'     ,    $$P     Disk: 5.5G / 125G (5%)
-   $$:      $$.   -    ,d$$'     CPU: Intel Xeon Platinum 8259CL @ 2x 2.5GHz
-   $$\;      Y$b._   _,d$P'      GPU: 
-   Y$$.    `.`"Y$$$$P"'          RAM: 295MiB / 1908MiB
-   `$$b      "-.__              
-    `Y$$                         Here is Debcharon
-     `Y$$.                       Linux Operator | Webmaster | Web Developer focusing on study
-       `$$b.                     Currently learning Python, C++ & ???
+   $$P      d$'     ,    $$P     Disk: 50G / 469G (12%)
+   $$:      $$.   -    ,d$$'     CPU: 13th Gen Intel Core i5-13500 @ 20x 4.8GHz [32.0°C]
+   $$\;      Y$b._   _,d$P'      RAM: 48045MiB / 64087MiB
+   Y$$.    `.`"Y$$$$P"'         
+   `$$b      "-.__               Here is Debcharon
+    `Y$$                         Linux Operator | Webmaster | Web Developer focusing on study
+     `Y$$.                       Currently Coding by Codex, learning Frontend & ???
+       `$$b.                    
          `Y$$b.                 
             `"Y$b._             
-                `""""                     
+                `""""                    
 
 ```
 
@@ -37,6 +37,6 @@
  * README for Microcharon
  *
  * @author Microcharon
- * @version 5.0
+ * @version 6.0
  * @link https://www.microcharon.com
  --->
